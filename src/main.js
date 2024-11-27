@@ -28,9 +28,3 @@ Zotero.OpenAlexPlugin = {
         }
     }
 };
-
-// Trigger the process when a toolbar button is clicked (defined in `manifest.json`).
-window.addEventListener("load", () => {
-    const toolbarButton = document.getElementById("zotero-openalex-plugin-button");
-    toolbarButton.addEventListener("click", Zotero.OpenAlexPlugin.processSelectedItems);
-});
