@@ -1,0 +1,1 @@
+https://www.zotero.org/support/dev/client_coding/plugin_development#setting_up_a_plugin_development_environment

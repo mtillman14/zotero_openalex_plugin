@@ -1,0 +1,14 @@
+{
+    "manifeset_version": 1,
+    "name": "Zotero OpenAlex",
+    "version": "1.0",
+    "description": "Update Zotero items with OpenAlex Work IDs.",
+    "author": "Mitchell Tillman",
+    "applications": {
+        "zotero": {
+            "id": "openalex@gmail.com",
+            "strict_min_version": "6.999",
+            "strict_max_version": "7.0.*"
+        }
+    }
+}
